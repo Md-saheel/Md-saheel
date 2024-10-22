@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mohamed Saheel<br>A passionate Front-End Developer from India<br>- 🔭 I’m currently Studying on **Sri Krishna Adithya College**<br><br>- 🌱 I’m currently learning **React JS**<br><br>- 📫 How to reach me **mdsaheel5555@gmail.com**<br>
+Hi 👋, I'm Mohamed Saheel<br>A passionate Front-End Developer from India<br>- 🔭 I’m currently Studying on **Sri Krishna Adithya College**<br><br>- 🌱 I’m currently learning **React JS**<br><br>- 📫 How to reach me **smohamedsaheel@outlook.com**<br>
 
 
 ## 🌐 Socials:
